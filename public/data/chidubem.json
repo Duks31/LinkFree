@@ -20,4 +20,11 @@
       "icon": "linkedin"
     }
   ]
+   "milestones": [
+    {
+      "title": "Started Coding",
+      "date": "May 2010",
+      "color": "grey",
+    },
+  ]
 }
